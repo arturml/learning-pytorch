@@ -6,3 +6,4 @@ I'm a TensorFlow/Keras user and I finally decided to give PyTorch a try! I will 
 ### Noteboks:
 
 * [Logistic Regression with breast cancer dataset](https://github.com/arturml/learning-pytorch/blob/master/notebooks/logistic-regression.ipynb)
+* [Yet another CNN for MNIST](https://github.com/arturml/learning-pytorch/blob/master/notebooks/Yet%20another%20CNN%20for%20MNIST.ipynb)
